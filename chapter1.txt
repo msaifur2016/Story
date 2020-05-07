@@ -1,0 +1,7 @@
+user@DESKTOP-RTG6DQ6 MINGW64 ~/Desktop/Story
+
+$ Open chapter1.txt
+
+bash: Open: command not found
+
+Please help me to solve This
